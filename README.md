@@ -3,6 +3,12 @@
   <img src="rotating_cube.gif" alt="Rotating Cube Example">
   <figcaption><em>Rotating Cube Example</em> <a href="https://github.com/SafetImamovic/terminal-3d-render-engine">Terminal 3D Render Engine in C</a></figcaption>
 </figure>
+
+## Favorite Quotes
+
+> *"If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program."*  
+> — Linus Torvalds
+
 <!--
 **SafetImamovic/SafetImamovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
