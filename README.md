@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![rotating_cube](rotating_cube.gif)
 <!--
 **SafetImamovic/SafetImamovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
