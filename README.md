@@ -1,8 +1,9 @@
 ## Hi there 👋
 <figure>
-  <img src="rotating_cube.gif" alt="Rotating Cube Example">
-  <figcaption><em>Rotating Cube Example</em> <a href="https://github.com/SafetImamovic/terminal-3d-render-engine">Terminal 3D Render Engine in C</a></figcaption>
+  <img src="https://github.com/SafetImamovic/terminal-3d-render-engine/blob/master/examples/rotating_dual_polyhedron.gif" alt="Rotating Cube Example">
+  <figcaption><em>Rotating Dual Polyhedron Example</em> <a href="https://github.com/SafetImamovic/terminal-3d-render-engine">Terminal 3D Render Engine in C</a></figcaption>
 </figure>
+
 
 ## Favorite Quotes
 
