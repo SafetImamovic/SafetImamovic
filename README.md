@@ -1,4 +1,7 @@
 ## Hi there 👋
+
+I'm a Software Engineering Student and I like Maths and Computer Graphics.
+
 <figure>
   <img src="https://github.com/SafetImamovic/terminal-3d-render-engine/blob/master/examples/rotating_dual_polyhedron.gif" alt="Rotating Cube Example">
   <figcaption><em>Rotating Dual Polyhedron Example</em> <a href="https://github.com/SafetImamovic/terminal-3d-render-engine">Terminal 3D Render Engine in C</a></figcaption>
