@@ -2,11 +2,20 @@
 
 I'm a Software Engineering Student and I like Maths and Computer Graphics.
 
+
+<figure>
+  <img src="https://github.com/SafetImamovic/oxide/blob/master/docs/images/auto_vertex_mode.png" alt="Rotating Cube Example">
+  <figcaption><em>Car Example</em> <a href="https://github.com/SafetImamovic/oxide">Oxide Render Engine in Rust</a></figcaption>
+</figure>
+
+---
+
 <figure>
   <img src="https://github.com/SafetImamovic/terminal-3d-render-engine/blob/master/examples/rotating_dual_polyhedron.gif" alt="Rotating Cube Example">
   <figcaption><em>Rotating Triangular Bipyramid Example</em> <a href="https://github.com/SafetImamovic/terminal-3d-render-engine">Terminal 3D Render Engine in C</a></figcaption>
 </figure>
 
+---
 
 ## Favorite Quotes
 
