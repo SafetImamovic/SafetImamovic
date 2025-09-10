@@ -5,7 +5,7 @@ I'm a Software Engineering Student and I like Maths and Computer Graphics.
 
 <figure>
   <img src="https://github.com/SafetImamovic/oxide/blob/master/docs/images/auto_vertex_mode.png" alt="Rotating Cube Example">
-  <figcaption><em>Car Example</em> <a href="https://github.com/SafetImamovic/oxide">Oxide Render Engine in Rust</a></figcaption>
+  <figcaption><em>Car Example, Stylized Render via Vertex Only Drawing Mode</em> <a href="https://github.com/SafetImamovic/oxide">Oxide Render Engine in Rust</a></figcaption>
 </figure>
 
 ---
