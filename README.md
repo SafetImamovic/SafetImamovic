@@ -62,6 +62,15 @@ I'm a Master's student in Software Engineering from Bosnia and Herzegovina, part
           >
         </a>
       </p>
+      <p align="center">
+        <a href="https://github.com/SafetImamovic/oxide">
+          <img
+            src="https://safetimamovic.github.io/oxide/images/maxwell.png"
+            alt="Maxwell rendered using the Oxide Render Engine"
+            width="100%"
+          >
+        </a>
+      </p>
       <p>
         A lightweight 3D render engine for native and web applications,
         built using Rust, WebGPU, and WebAssembly.
