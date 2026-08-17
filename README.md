@@ -1,13 +1,13 @@
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:1e40af,100:7c3aed&text=Safet%20Imamović&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Graphics%20Programmer%20%E2%80%A2%20Systems%20Builder%20%E2%80%A2%20Product%20Founder&descAlignY=58&descSize=18&animation=fadeIn"
-    alt="Safet Imamović — Graphics Programmer, Systems Builder, and Product Founder"
+    alt="Safet Imamović - Graphics Programmer, Systems Builder, and Product Founder"
     width="100%"
   >
 </p>
 
 <p align="center">
-  I build software where <strong>mathematics becomes visible</strong>—renderers,
+  I build software where <strong>mathematics becomes visible</strong>-renderers,
   simulations, developer tools, and interactive systems.
 </p>
 
@@ -135,9 +135,9 @@ I'm a Master's student in Software Engineering from Bosnia and Herzegovina, part
 
 ## Currently Building
 
-- **EngineCV** — programmable, local-first CV tooling and automation
-- **Bracket** — a competitive mathematics game developed by The Fourth Process
-- **Graphics Experiments** — renderers, GPU simulations, and interactive visual tools
+- **EngineCV**: programmable, local-first CV tooling and automation
+- **Bracket**: a competitive mathematics game developed by The Fourth Process
+- **Graphics Experiments**: renderers, GPU simulations, and interactive visual tools
 
 ---
 
@@ -208,7 +208,7 @@ I'm a Master's student in Software Engineering from Bosnia and Herzegovina, part
 </p>
 
 <p align="center">
-  — Linus Torvalds
+  - Linus Torvalds
 </p>
 
 <p align="center">
